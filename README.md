@@ -18,4 +18,4 @@ StudyFlow is a comprehensive system helping students manage their academic work.
 ## Tony Nicoletti
 
 ## US-1 Admin Creates a Deadline 
-![Empty Form](./US-1_Admin_Deadline/US-1_Empty_Form.png)
+<img src="./US-1_Admin_Deadline/US-1_Empty_Form.png" width="400" alt="Empty Form">
