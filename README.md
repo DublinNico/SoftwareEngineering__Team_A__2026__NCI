@@ -19,3 +19,5 @@ StudyFlow is a comprehensive system helping students manage their academic work.
 
 ## US-1 Admin Creates a Deadline 
 <img src="./US-1_Admin_Deadline/US-1_Empty_Form.png" width="400" alt="Empty Form">
+
+## Link - https://www.figma.com/design/4InBiD8O8wihHltukXTK5c/US-1_Empty_Form?node-id=0-1&t=7OOKy1H2zFDWdIYP-1
